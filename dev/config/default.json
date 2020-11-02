@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://ilayda:ilayda@devconnector.h5dxr.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken"
+}
